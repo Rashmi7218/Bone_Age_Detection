@@ -1,4 +1,4 @@
-# Bone_Age_Detection
+# BoneAgeDetection
 Semester Project
 
 ##### Dataset is taken from the following site
